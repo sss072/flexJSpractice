@@ -1,0 +1,29 @@
+.navi {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    padding-right: 30px;
+}
+
+p {
+    background-color: blue;
+    border-style: solid;
+    height: 50px;
+    flex: 1 1 0px;
+}
+
+#pparent {
+    display: flex;
+}
+
+#calc {
+    margin-top: 100px;
+}
+
+#butt {
+    display: block;
+    text-align: center;
+    border-style: solid;
+}
